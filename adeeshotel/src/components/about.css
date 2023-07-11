@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    margin-top: 10px;
+
+}
+.heading{
+    text-align: center;
+    padding: 10px;
+    color: rgb(103, 180, 103);
+}
+.head{
+    width: 80%;
+    font-size: 50px;
+}
+.fimg img:hover {
+    
+    opacity: 0.5;
+    zoom: 1;
+    transition: all 1s;
+    transform: scale(1.3);
+    -webkit-transform: scale(1.3);
+    -webkit-transition: all 1s;
+  
+
+}
+.fimg img{
+    height: 300px;
+    width: 100%;
+    /* overflow: hidden; */
+}
+.fimg{
+    overflow: hidden;
+    position: relative;
+}
+.imgbox{
+    overflow: hidden;
+    position: relative;
+}
+.game {
+    position: absolute;
+    top: 50%;
+    /* transform: translateX(-50%); */
+    /* z-index: 9; */
+    text-align: center;
+    width: 100%;
+  }
+  .game a{
+      /* width: 100%; */
+     
+      /* text-align: center; */
+      color: white;
+      font-size: 25px;
+      border-radius: 15px;
+      padding:10px;
+      
+      text-decoration: none;
+      /* padding: auto; */
+      background-color: black;
+  }
+  .game a:hover{
+background-color: white;
+color: black;
+
+  }

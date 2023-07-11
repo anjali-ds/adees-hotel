@@ -1,0 +1,20 @@
+{
+    "emp":
+[
+    {
+    "name":"Deepak",
+    "age":22,
+    "gender":"male"
+},
+    {
+    "name":"Dishant",
+    "age":22,
+    "gender":"male"
+},
+    {
+    "name":"Ritesh",
+    "age":24,
+    "gender":"male"
+}
+]
+}

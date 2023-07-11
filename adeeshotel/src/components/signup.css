@@ -1,0 +1,128 @@
+.signup h2{
+    text-align: center;
+}
+.signupbutton{
+    text-align: center;
+    margin-top: 20px;
+    
+    /* width: 30%; */
+  
+    
+}
+.signupbutton input{
+    text-align: center;
+    background-color: transparent;
+    padding:10px ;
+    font-size: 18px;
+    color: white;
+    border-radius: 10px;
+    
+    /* width: 30%; */
+  
+    
+}
+.signupform{
+    border: 1px solid black;
+    /* margin-top: 50px; */
+    margin: 0 auto;
+    /* width: 40%; */
+    background: linear-gradient(to top,  rgba(15,84,85, 0.8) 50%, rgba(15,84,85, 0.6) 50%);
+    margin-top: 30px;
+    border-radius: 15px;
+    
+}
+.signuplabel{
+    /* text-align: center; */
+    font-size: 18px;
+    padding-top: 8px;
+    width: 80%;
+    margin: 0 auto;
+    color: azure;
+padding: 5px;}
+.signupinput{
+    /* text-align: center; */
+    font-size: 18px;
+    padding-top: 8px;
+    width: 80%;
+    margin: 0 auto;
+}
+.signupinput input{
+    text-align: center;
+    padding: 8PX;
+    font-size: 18px;
+    padding-top: 8px;
+    width: 100%;
+    margin: 0 auto;
+    background: transparent;
+    border-radius: 20px;
+    color: white;
+}
+.signupinput select{
+    text-align: center;
+    padding: 8PX;
+    font-size: 18px;
+    padding-top: 8px;
+    width: 100%;
+    margin: 0 auto;
+    background: transparent;
+    border-radius: 20px;
+    color: white;
+}
+.signupinput select option{
+    text-align: center;
+    padding: 10PX;
+    font-size: 18px;
+    padding-top: 8px;
+    width: 100%;
+    margin: 0 auto;
+    /* background: transparent; */
+    background-color: black;
+    
+     /* background-color: linear-gradient(to top,  rgba(15,84,85, 0.8) 50%, rgba(15,84,85, 0.6) 50%); */
+    border-radius: 20px;
+    /* color: black; */
+}
+
+.signuppass input{
+    text-align: center;
+    padding: 8PX;
+    font-size: 18px;
+    padding-top: 8px;
+    width: 100%;
+    /* margin: 0 auto; */
+    background: transparent;
+    border-radius: 20px;
+    color: white;
+}
+.signupmain{
+    background: url("/public/img/adees/signuppage1.jpg");
+    background-size: cover;
+    margin-top: -80px;
+}
+.signupinput input::placeholder{
+    color: aliceblue;
+    text-align: center;
+}
+.signupeye {
+    font-size: 30px;
+    width: 10%;
+    /* float: right; */
+    /* position: relative; */
+    /* position: absolute; */
+     /* top: -1; */
+     margin-top: -50px;
+     /* z-index: -1; */
+     /* position: absolute; */
+     margin-left: 90%;
+}
+.signupsmall{
+    text-align: center;
+    width: 100%;
+    color: red;
+    /* margin-top: 20px; */
+    padding: 5px;
+    margin: 0 auto;
+}
+.signup{
+    padding-top: 100px;
+}

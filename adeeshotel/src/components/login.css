@@ -1,0 +1,93 @@
+.loginhead{
+    
+    text-align: center;
+    color: darkgrey;
+}
+.loginhigh{
+    
+    padding-top: 100px;
+    
+}
+.loginhere{
+    /* width: 30%; */
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 15px;
+    background: linear-gradient(to top,  rgba(0, 0, 0, 0.8) 50%, rgba(0, 0, 0, 0.8) 50%);
+  
+    
+}
+.loginor {
+    text-align: center;
+    color: white;
+}
+/* .loginbody{
+   
+   text-align: center;
+   border: 2px solid black;
+   margin: 20px auto;
+   width: 50%;
+} */
+.loginbutton{
+    text-align: center;
+    
+    /* width: 30%; */
+  
+}
+.loginbutton button{
+    border-radius: 20px;
+    font-size: 18px;
+    padding: 10px;
+    margin: 10px;
+    /* width: 25%; */
+    width: 220px;
+    background-color: grey;
+    border: grey;
+}
+.loginbutton button a{
+    text-decoration: none;
+    color: black;
+}
+.loginlabel{
+    /* width: 100%; */
+    text-align: center;
+    
+}
+.logininput{
+    text-align: center;
+    
+}
+.loginlabel label{
+font-size: 18%;
+    padding: 8px;
+    margin: 10px;
+    color: aliceblue;
+}
+.logininput input{
+    font-size: 20px;
+    padding: 8px;
+    margin: 10px;
+    width: 100%;
+    background: transparent;
+    border-radius: 20px;
+    /* border: none; */
+    text-align: center;
+    /* outline: none; */
+    color: aliceblue;
+}
+.logininput input::placeholder{
+    color: aliceblue;
+    text-align: center;
+}
+/* .logininput input:hover{
+    color: #9BA4C9;
+        text-align: center;
+} */
+.loginpage{
+    background: url("/public/img/adees/loginpage.jpg");
+    min-height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    top: 0;
+    margin-top: -80px;
+}
